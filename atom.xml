@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://enderzzm.github.io</id>
     <title>Ender_zzm的博客</title>
-    <updated>2020-06-16T12:22:26.152Z</updated>
+    <updated>2020-06-16T12:31:36.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://enderzzm.github.io"/>
     <link rel="self" href="https://enderzzm.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://enderzzm.github.io/images/avatar.png</logo>
     <icon>https://enderzzm.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Ender_zzm的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[关于这个博客]]></title>
+        <id>https://enderzzm.github.io/post/guan-yu-zhe-ge-bo-ke/</id>
+        <link href="https://enderzzm.github.io/post/guan-yu-zhe-ge-bo-ke/">
+        </link>
+        <updated>2020-06-16T12:28:54.000Z</updated>
+        <content type="html"><![CDATA[<p>本来是有一个静态博客的， 可是为了方便， 还是搭建了这个小博客。</p>
+<p>这个博客主要是为了博主自己的复习所用， 如有错误请多多指教</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://enderzzm.github.io/post/hello-gridea/</id>
